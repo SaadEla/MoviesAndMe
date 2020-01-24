@@ -1,4 +1,7 @@
 # MoviesAndMe
+
+The application allows you to see all the movies released in the cinema can add them to favorites to consult them afterwards and share the information of the films with your friends.
+
 ## Getting started
 
 1. Install React Native as described at [https://facebook.github.io/react-native/docs/getting-started.html#content](https://facebook.github.io/react-native/docs/getting-started.html#content)
